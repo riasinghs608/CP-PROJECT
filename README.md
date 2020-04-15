@@ -1,0 +1,2 @@
+# CP-PROJECT
+Salon management
